@@ -1,0 +1,45 @@
+body {
+	font-family: Tahoma;
+	font-size: 13px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table tr {
+	border-bottom: 1px solid white;
+}
+
+#email {
+	text-align: center;
+}
+
+#email:hover {
+	color: #cc6600;
+}
+
+#even {
+	background-color: #eeeff4;
+}
+
+#heading {
+	background-color: #687290;
+	color: white;
+}
+
+#line {
+	visibility: hidden;
+}
+
+#odd {
+	background-color: #dfe1e8;
+}
+
+#total {
+	visibility: hidden;
+}
+
+#yos {
+	text-align: center;
+}
